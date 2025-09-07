@@ -1,2 +1,2 @@
 # Java-with-DSA
-here i solve ninja question
+here i solve ninja question.
